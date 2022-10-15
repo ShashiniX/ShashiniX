@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShashiniX
+- 👋 Hi, I’m @Shashini Sankalpana
 - 👀 I’m interested in Programming 💻
 - 🌱 I’m currently learning At @SLIIT Malabe
 - 💞️ I’m looking to collaborate on SE Internship
